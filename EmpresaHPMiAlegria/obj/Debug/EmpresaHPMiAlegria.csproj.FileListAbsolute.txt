@@ -1,0 +1,45 @@
+C:\Users\ivanr\source\repos\EmpresaHPMiAlegria\EmpresaHPMiAlegria\bin\Debug\EmpresaHPMiAlegria.exe.config
+C:\Users\ivanr\source\repos\EmpresaHPMiAlegria\EmpresaHPMiAlegria\bin\Debug\EmpresaHPMiAlegria.exe
+C:\Users\ivanr\source\repos\EmpresaHPMiAlegria\EmpresaHPMiAlegria\bin\Debug\EmpresaHPMiAlegria.pdb
+C:\Users\ivanr\source\repos\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.csproj.AssemblyReference.cache
+C:\Users\ivanr\source\repos\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.FormInicioSesion.resources
+C:\Users\ivanr\source\repos\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.Properties.Resources.resources
+C:\Users\ivanr\source\repos\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.csproj.GenerateResource.cache
+C:\Users\ivanr\source\repos\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\source\repos\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.exe
+C:\Users\ivanr\source\repos\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.pdb
+C:\Users\ivanr\source\repos\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.FormControlesUsuario.resources
+C:\Users\ivanr\source\repos\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.FormUsuarioSistema.resources
+C:\Users\ivanr\source\repos\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.FormUsuarioComprador.resources
+C:\Users\ivanr\source\repos\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.FormUsuarioOperador.resources
+C:\Users\ivanr\source\repos\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.FormChangePassword.resources
+C:\Users\ivanr\OneDrive\Escritorio\Clases\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\bin\Debug\EmpresaHPMiAlegria.exe.config
+C:\Users\ivanr\OneDrive\Escritorio\Clases\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\bin\Debug\EmpresaHPMiAlegria.exe
+C:\Users\ivanr\OneDrive\Escritorio\Clases\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\bin\Debug\EmpresaHPMiAlegria.pdb
+C:\Users\ivanr\OneDrive\Escritorio\Clases\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.csproj.AssemblyReference.cache
+C:\Users\ivanr\OneDrive\Escritorio\Clases\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.FormChangePassword.resources
+C:\Users\ivanr\OneDrive\Escritorio\Clases\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.FormControlesUsuario.resources
+C:\Users\ivanr\OneDrive\Escritorio\Clases\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.FormInicioSesion.resources
+C:\Users\ivanr\OneDrive\Escritorio\Clases\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.FormUsuarioComprador.resources
+C:\Users\ivanr\OneDrive\Escritorio\Clases\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.FormUsuarioOperador.resources
+C:\Users\ivanr\OneDrive\Escritorio\Clases\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.FormUsuarioSistema.resources
+C:\Users\ivanr\OneDrive\Escritorio\Clases\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.Properties.Resources.resources
+C:\Users\ivanr\OneDrive\Escritorio\Clases\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.csproj.GenerateResource.cache
+C:\Users\ivanr\OneDrive\Escritorio\Clases\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Escritorio\Clases\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.exe
+C:\Users\ivanr\OneDrive\Escritorio\Clases\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.pdb
+C:\Users\ivanr\OneDrive\Escritorio\Preparatoria\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\bin\Debug\EmpresaHPMiAlegria.exe.config
+C:\Users\ivanr\OneDrive\Escritorio\Preparatoria\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\bin\Debug\EmpresaHPMiAlegria.exe
+C:\Users\ivanr\OneDrive\Escritorio\Preparatoria\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\bin\Debug\EmpresaHPMiAlegria.pdb
+C:\Users\ivanr\OneDrive\Escritorio\Preparatoria\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.csproj.AssemblyReference.cache
+C:\Users\ivanr\OneDrive\Escritorio\Preparatoria\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.FormChangePassword.resources
+C:\Users\ivanr\OneDrive\Escritorio\Preparatoria\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.FormControlesUsuario.resources
+C:\Users\ivanr\OneDrive\Escritorio\Preparatoria\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.FormInicioSesion.resources
+C:\Users\ivanr\OneDrive\Escritorio\Preparatoria\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.FormUsuarioComprador.resources
+C:\Users\ivanr\OneDrive\Escritorio\Preparatoria\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.FormUsuarioOperador.resources
+C:\Users\ivanr\OneDrive\Escritorio\Preparatoria\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.FormUsuarioSistema.resources
+C:\Users\ivanr\OneDrive\Escritorio\Preparatoria\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.Properties.Resources.resources
+C:\Users\ivanr\OneDrive\Escritorio\Preparatoria\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.csproj.GenerateResource.cache
+C:\Users\ivanr\OneDrive\Escritorio\Preparatoria\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Escritorio\Preparatoria\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.exe
+C:\Users\ivanr\OneDrive\Escritorio\Preparatoria\Semestre 5\Tony\EmpresaHPMiAlegria\EmpresaHPMiAlegria\obj\Debug\EmpresaHPMiAlegria.pdb
